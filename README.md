@@ -1,8 +1,7 @@
 
 
 # Crossing Game
-"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-08-14 100736.png"
-
+![Crossing Game Screenshot](https://github.com/Achyuthkumar4756/Crossing_game/blob/main/Screenshot%202024-08-14%20100736.png)
 ## Overview
 
 The Crossing Game is a fun and engaging arcade game where the player must navigate a character from one end of the screen to the other without colliding with moving blocks. As you progress through the levels, the blocks move faster, making the game more challenging and exciting.

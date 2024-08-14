@@ -1,8 +1,7 @@
 
 
 # Crossing Game
-
-![Crossing Game Screenshot](./path_to_image.png)
+"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-08-14 100736.png"
 
 ## Overview
 
